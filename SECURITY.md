@@ -1,4 +1,4 @@
-# Security Policy
+## Security Policy
 
 ## Supported Versions
 
@@ -18,3 +18,7 @@ Please post a issue [tell its urgent!]
 We will fix it ASAP. Please do not report :x: versions.
 A security Policy for versions lasts for 3-5weeks. If no updates released time
 is infinite.
+
+
+## ==SECURITY==
+Hidden Studios: LunarSecurity
