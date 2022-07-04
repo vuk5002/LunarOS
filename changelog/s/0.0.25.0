@@ -1,0 +1,10 @@
+==CHANGELOG==
+(Please note that 0.0.25.0 is no longer maintaned by latest security featueres.)
+***********************************************************************************
+
+******************************
+* new writer
+* code compiled to C 
+* better FAT32/12 filesystem
+* NTFS Read Only
+******************************
