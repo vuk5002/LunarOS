@@ -6,14 +6,14 @@ Features:<br>
 - [X] Boot
 - [X] Printing using bios 0x10
 - [X] DiskRead
-- [X] Jump to 0x7e00 kernel location (beyond 1st sect.)
+- [X] Jump to 0x7e00 kernel location (beyond 1st sect.)<br>
 ->Asm Kernel:<br>
 - [X] A20 Line (fast method)
 - [X] GDT
 - [X] PMode
 - [X] Paging
 - [X] CpuID
-- [X] Looong mode
+- [X] Looong mode<br>
 ->C(++) kernel:<br>
 - [X] Printing
 - [X] Serial Initialization
@@ -21,13 +21,13 @@ Features:<br>
 - [X] Shell
 - [ ] Mode 13 Graphics
 - [ ] User Mode
-- [ ] Multi Tasking
+- [ ] Multi Tasking<br>
 ->Services:<br>
 - [ ] Network
-- [ ] GUI
+- [ ] GUI<br>
 ->Memory/Fs:<br>
 - [ ] RamFS
-- [ ] Fat X ?
+- [ ] Fat X ?<br>
 ->Drivers:<br>
 - [X] Keyboard
 - [ ] Mouse
